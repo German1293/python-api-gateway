@@ -9,7 +9,7 @@ pyenv.cfg
 
 # Carpeta de entorno virtual de Python (por ejemplo, virtualenv o venv)
 .venv/
-env/
+.env
 
 # Carpeta de dependencias de Python
 lib/
