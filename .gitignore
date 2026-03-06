@@ -43,3 +43,4 @@ egg-info/
 .coverage
 htmlcov/
 docker-image-example.yaml
+/infra
